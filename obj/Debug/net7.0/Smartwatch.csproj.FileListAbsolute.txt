@@ -1,0 +1,15 @@
+C:\Users\Robson Almaviva\Documents\GitHub\Smartwatch\bin\Debug\net7.0\Smartwatch.exe
+C:\Users\Robson Almaviva\Documents\GitHub\Smartwatch\bin\Debug\net7.0\Smartwatch.deps.json
+C:\Users\Robson Almaviva\Documents\GitHub\Smartwatch\bin\Debug\net7.0\Smartwatch.runtimeconfig.json
+C:\Users\Robson Almaviva\Documents\GitHub\Smartwatch\bin\Debug\net7.0\Smartwatch.dll
+C:\Users\Robson Almaviva\Documents\GitHub\Smartwatch\bin\Debug\net7.0\Smartwatch.pdb
+C:\Users\Robson Almaviva\Documents\GitHub\Smartwatch\obj\Debug\net7.0\Smartwatch.csproj.AssemblyReference.cache
+C:\Users\Robson Almaviva\Documents\GitHub\Smartwatch\obj\Debug\net7.0\Smartwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robson Almaviva\Documents\GitHub\Smartwatch\obj\Debug\net7.0\Smartwatch.AssemblyInfoInputs.cache
+C:\Users\Robson Almaviva\Documents\GitHub\Smartwatch\obj\Debug\net7.0\Smartwatch.AssemblyInfo.cs
+C:\Users\Robson Almaviva\Documents\GitHub\Smartwatch\obj\Debug\net7.0\Smartwatch.csproj.CoreCompileInputs.cache
+C:\Users\Robson Almaviva\Documents\GitHub\Smartwatch\obj\Debug\net7.0\Smartwatch.dll
+C:\Users\Robson Almaviva\Documents\GitHub\Smartwatch\obj\Debug\net7.0\refint\Smartwatch.dll
+C:\Users\Robson Almaviva\Documents\GitHub\Smartwatch\obj\Debug\net7.0\Smartwatch.pdb
+C:\Users\Robson Almaviva\Documents\GitHub\Smartwatch\obj\Debug\net7.0\Smartwatch.genruntimeconfig.cache
+C:\Users\Robson Almaviva\Documents\GitHub\Smartwatch\obj\Debug\net7.0\ref\Smartwatch.dll
